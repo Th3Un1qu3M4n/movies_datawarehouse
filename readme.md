@@ -29,4 +29,4 @@
  - perform tranformations in the next steps
 
 ## Dimensional Model
-![Dimension Model](https://raw.githubusercontent.com/Th3Un1qu3M4n/movies_datawarehouse/pre-req/dimension_model.png)
+![Dimension Model](https://raw.githubusercontent.com/Th3Un1qu3M4n/movies_datawarehouse/main/Dimension_Diagram.png)
